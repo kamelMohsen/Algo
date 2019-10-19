@@ -1,0 +1,3 @@
+All the Graphs have an expoenintial relation between N & Time 
+That means the more the N increases the more the time increases Significantly.
+At some point a normal computer would take days to solve a single question.
