@@ -1,0 +1,3 @@
+﻿  hash.cpp
+C:\Users\Kamel\source\repos\Lab3\hash.cpp(25,21): warning C4018: '<': signed/unsigned mismatch
+  Lab3.vcxproj -> C:\Users\Kamel\source\repos\Lab3\Debug\Lab3.exe
