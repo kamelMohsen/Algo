@@ -1,0 +1,40 @@
+﻿  HybridSort.cpp
+  InsertionSort.cpp
+C:\Users\Kamel\Desktop\Fall 2019\Algo\Assignments\Assignment2(Sorting)\Solution Code\HW2\HybridSort.cpp(91,54): warning C4244: 'return': conversion from '_Rep' to 'float', possible loss of data
+C:\Users\Kamel\Desktop\Fall 2019\Algo\Assignments\Assignment2(Sorting)\Solution Code\HW2\HybridSort.cpp(91,54): warning C4244:         with
+C:\Users\Kamel\Desktop\Fall 2019\Algo\Assignments\Assignment2(Sorting)\Solution Code\HW2\HybridSort.cpp(91,54): warning C4244:         [
+C:\Users\Kamel\Desktop\Fall 2019\Algo\Assignments\Assignment2(Sorting)\Solution Code\HW2\HybridSort.cpp(91,54): warning C4244:             _Rep=double
+C:\Users\Kamel\Desktop\Fall 2019\Algo\Assignments\Assignment2(Sorting)\Solution Code\HW2\HybridSort.cpp(91,54): warning C4244:         ]
+  MergeSort.cpp
+C:\Users\Kamel\Desktop\Fall 2019\Algo\Assignments\Assignment2(Sorting)\Solution Code\HW2\InsertionSort.cpp(26,54): warning C4244: 'return': conversion from '_Rep' to 'float', possible loss of data
+C:\Users\Kamel\Desktop\Fall 2019\Algo\Assignments\Assignment2(Sorting)\Solution Code\HW2\InsertionSort.cpp(26,54): warning C4244:         with
+C:\Users\Kamel\Desktop\Fall 2019\Algo\Assignments\Assignment2(Sorting)\Solution Code\HW2\InsertionSort.cpp(26,54): warning C4244:         [
+C:\Users\Kamel\Desktop\Fall 2019\Algo\Assignments\Assignment2(Sorting)\Solution Code\HW2\InsertionSort.cpp(26,54): warning C4244:             _Rep=double
+C:\Users\Kamel\Desktop\Fall 2019\Algo\Assignments\Assignment2(Sorting)\Solution Code\HW2\InsertionSort.cpp(26,54): warning C4244:         ]
+  QuickSort.cpp
+C:\Users\Kamel\Desktop\Fall 2019\Algo\Assignments\Assignment2(Sorting)\Solution Code\HW2\MergeSort.cpp(75,54): warning C4244: 'return': conversion from '_Rep' to 'float', possible loss of data
+C:\Users\Kamel\Desktop\Fall 2019\Algo\Assignments\Assignment2(Sorting)\Solution Code\HW2\MergeSort.cpp(75,54): warning C4244:         with
+C:\Users\Kamel\Desktop\Fall 2019\Algo\Assignments\Assignment2(Sorting)\Solution Code\HW2\MergeSort.cpp(75,54): warning C4244:         [
+C:\Users\Kamel\Desktop\Fall 2019\Algo\Assignments\Assignment2(Sorting)\Solution Code\HW2\MergeSort.cpp(75,54): warning C4244:             _Rep=double
+C:\Users\Kamel\Desktop\Fall 2019\Algo\Assignments\Assignment2(Sorting)\Solution Code\HW2\MergeSort.cpp(75,54): warning C4244:         ]
+  SelectionSort.cpp
+C:\Users\Kamel\Desktop\Fall 2019\Algo\Assignments\Assignment2(Sorting)\Solution Code\HW2\QuickSort.cpp(57,54): warning C4244: 'return': conversion from '_Rep' to 'float', possible loss of data
+C:\Users\Kamel\Desktop\Fall 2019\Algo\Assignments\Assignment2(Sorting)\Solution Code\HW2\QuickSort.cpp(57,54): warning C4244:         with
+C:\Users\Kamel\Desktop\Fall 2019\Algo\Assignments\Assignment2(Sorting)\Solution Code\HW2\QuickSort.cpp(57,54): warning C4244:         [
+C:\Users\Kamel\Desktop\Fall 2019\Algo\Assignments\Assignment2(Sorting)\Solution Code\HW2\QuickSort.cpp(57,54): warning C4244:             _Rep=double
+C:\Users\Kamel\Desktop\Fall 2019\Algo\Assignments\Assignment2(Sorting)\Solution Code\HW2\QuickSort.cpp(57,54): warning C4244:         ]
+  sort.cpp
+C:\Users\Kamel\Desktop\Fall 2019\Algo\Assignments\Assignment2(Sorting)\Solution Code\HW2\SelectionSort.cpp(31,54): warning C4244: 'return': conversion from '_Rep' to 'float', possible loss of data
+C:\Users\Kamel\Desktop\Fall 2019\Algo\Assignments\Assignment2(Sorting)\Solution Code\HW2\SelectionSort.cpp(31,54): warning C4244:         with
+C:\Users\Kamel\Desktop\Fall 2019\Algo\Assignments\Assignment2(Sorting)\Solution Code\HW2\SelectionSort.cpp(31,54): warning C4244:         [
+C:\Users\Kamel\Desktop\Fall 2019\Algo\Assignments\Assignment2(Sorting)\Solution Code\HW2\SelectionSort.cpp(31,54): warning C4244:             _Rep=double
+C:\Users\Kamel\Desktop\Fall 2019\Algo\Assignments\Assignment2(Sorting)\Solution Code\HW2\SelectionSort.cpp(31,54): warning C4244:         ]
+C:\Users\Kamel\Desktop\Fall 2019\Algo\Assignments\Assignment2(Sorting)\Solution Code\HW2\sort.cpp(41,63): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Kamel\Desktop\Fall 2019\Algo\Assignments\Assignment2(Sorting)\Solution Code\HW2\sort.cpp(47,63): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Kamel\Desktop\Fall 2019\Algo\Assignments\Assignment2(Sorting)\Solution Code\HW2\sort.cpp(53,63): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Kamel\Desktop\Fall 2019\Algo\Assignments\Assignment2(Sorting)\Solution Code\HW2\sort.cpp(59,63): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Sorts.cpp
+C:\Users\Kamel\Desktop\Fall 2019\Algo\Assignments\Assignment2(Sorting)\Solution Code\HW2\sort.cpp(65,63): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+C:\Users\Kamel\Desktop\Fall 2019\Algo\Assignments\Assignment2(Sorting)\Solution Code\HW2\Sorts.cpp(5,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  HW2.vcxproj -> C:\Users\Kamel\Desktop\Fall 2019\Algo\Assignments\Assignment2(Sorting)\Solution Code\HW2\x64\Debug\HW2.exe
